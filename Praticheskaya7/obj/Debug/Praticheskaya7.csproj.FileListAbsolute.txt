@@ -1,0 +1,16 @@
+C:\Users\310-09\Desktop\Praticheskaya7\Praticheskaya7\bin\Debug\Praticheskaya7.exe.config
+C:\Users\310-09\Desktop\Praticheskaya7\Praticheskaya7\bin\Debug\Praticheskaya7.exe
+C:\Users\310-09\Desktop\Praticheskaya7\Praticheskaya7\bin\Debug\Praticheskaya7.pdb
+C:\Users\310-09\Desktop\Praticheskaya7\Praticheskaya7\obj\Debug\Praticheskaya7.csproj.AssemblyReference.cache
+C:\Users\310-09\Desktop\Praticheskaya7\Praticheskaya7\obj\Debug\Praticheskaya7.csproj.SuggestedBindingRedirects.cache
+C:\Users\310-09\Desktop\Praticheskaya7\Praticheskaya7\obj\Debug\MainWindow.g.cs
+C:\Users\310-09\Desktop\Praticheskaya7\Praticheskaya7\obj\Debug\App.g.cs
+C:\Users\310-09\Desktop\Praticheskaya7\Praticheskaya7\obj\Debug\Praticheskaya7_MarkupCompile.cache
+C:\Users\310-09\Desktop\Praticheskaya7\Praticheskaya7\obj\Debug\Praticheskaya7_MarkupCompile.lref
+C:\Users\310-09\Desktop\Praticheskaya7\Praticheskaya7\obj\Debug\MainWindow.baml
+C:\Users\310-09\Desktop\Praticheskaya7\Praticheskaya7\obj\Debug\Praticheskaya7.g.resources
+C:\Users\310-09\Desktop\Praticheskaya7\Praticheskaya7\obj\Debug\Praticheskaya7.Properties.Resources.resources
+C:\Users\310-09\Desktop\Praticheskaya7\Praticheskaya7\obj\Debug\Praticheskaya7.csproj.GenerateResource.cache
+C:\Users\310-09\Desktop\Praticheskaya7\Praticheskaya7\obj\Debug\Praticheskaya7.csproj.CoreCompileInputs.cache
+C:\Users\310-09\Desktop\Praticheskaya7\Praticheskaya7\obj\Debug\Praticheskaya7.exe
+C:\Users\310-09\Desktop\Praticheskaya7\Praticheskaya7\obj\Debug\Praticheskaya7.pdb
